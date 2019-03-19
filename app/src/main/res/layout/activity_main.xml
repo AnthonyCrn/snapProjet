@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".Presentation.activity.MainActivity"
-    android:background="@drawable/snap"
+    android:background="@drawable/picture"
     android:fitsSystemWindows="true">
 
 

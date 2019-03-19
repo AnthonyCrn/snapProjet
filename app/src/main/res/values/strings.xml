@@ -8,5 +8,12 @@
     <string name="publish_button_label">publish</string>
     <string name="title_activity_snap_list">SnapListActivity</string>
     <string name="description">Loool</string>
+    <string name="snap_action_love">34k</string>
+    <string name="snap_action_comment">30k</string>
+    <string name="snap_action_like">50k</string>
+    <string name="snap_action_dislike">5k</string>
+    <string name="info_test">20 yard away</string>
+    <string name="m_away">gsdgknsgs</string>
+    <string name="mts_away">mt_away</string>
 
 </resources>

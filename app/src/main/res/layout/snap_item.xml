@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_alignBottom="@+id/snap_image"
             android:padding="8dp"
-            android:text="@string/snap_info_sample"
+            android:text="@string/info_test"
             android:textColor="@android:color/white"
             android:textStyle="bold"
             android:theme="@style/ThemeOverlay.AppCompat.Dark"
@@ -60,7 +60,7 @@
                 android:layout_weight="1"
                 app:fontFamily="@font/rocko"
                 android:drawableTop="@drawable/action_forum"
-                android:text="@string/snap_action_comment_info_sample" />
+                android:text="@string/snap_action_comment" />
 
             <Button
                 android:id="@+id/snap_action_love"
@@ -70,7 +70,7 @@
                 android:layout_weight="1"
                 android:drawableTop="@drawable/favorite"
                 app:fontFamily="@font/rocko"
-                android:text="@string/snap_action_comment_info_sample" />
+                android:text="@string/snap_action_love" />
 
             <Button
                 android:id="@+id/snap_action_like"
@@ -80,7 +80,7 @@
                 android:layout_weight="1"
                 android:drawableTop="@drawable/like"
                 app:fontFamily="@font/rocko"
-                android:text="@string/snap_action_comment_info_sample" />
+                android:text="@string/snap_action_like" />
 
             <Button
                 android:id="@+id/snap_action_dislike"
@@ -90,7 +90,7 @@
                 android:layout_weight="1"
                 android:drawableTop="@drawable/action_dislike"
                 app:fontFamily="@font/rocko"
-                android:text="@string/snap_action_comment_info_sample" />
+                android:text="@string/snap_action_dislike" />
 
 
         </LinearLayout>
